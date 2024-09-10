@@ -3,23 +3,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "2349012464012"
+global.ownername = "🐛 ❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "Nigeria, Asaba"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.ownernumber = '2349012464012'  //creator number
+global.ownername = ' ❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ ' //owner name
+global.botname = ' ❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'WASI'
+global.packname = '❤️'
+global.author = '❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌"
 
 //theme link
 global.link = 'https://whatsapp.com'
@@ -28,11 +28,11 @@ global.link = 'https://whatsapp.com'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
@@ -52,9 +52,9 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by ❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ user only',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
+    botAdmin: 'This feature can only be used when ❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
